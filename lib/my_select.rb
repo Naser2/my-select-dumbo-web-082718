@@ -20,7 +20,7 @@ arr = []
   # arr << collection
 
 # # # call your method here!
-collection.select do |num| puts 
+collection.select do |num|  
 
   if num % 2 == 0
     puts arr << num
