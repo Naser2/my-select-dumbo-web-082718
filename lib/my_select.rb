@@ -18,17 +18,17 @@ arr = []
   # arr << collection
 
 # # # call your method here!
-collection.select do |num| puts 
+# collection.select do |num| puts 
 
-   if num % 2 == 0
-    puts arr << num
+#   if num % 2 == 0
+#     puts arr << num
     
-  #   return true 
-  #   else 
-  #   return false
+#   #   return true 
+#   #   else 
+#   #   return false
    
-  end 
-end 
-arr 
-end 
+#   end 
+# end 
+# arr 
+# end 
 p my_select(collection)
