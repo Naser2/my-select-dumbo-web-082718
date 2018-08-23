@@ -7,7 +7,7 @@ arr = []
   i = 0 
 
   while i < collection.length 
-    yield collection.select[i].even?
+    yield collection.select[i]
     i += 1 
   end
   collection
