@@ -25,9 +25,9 @@ collection.select do |num|
   if num % 2 == 0
     puts arr << num
     
-  #   return true 
-  #   else 
-  #   return false
+    return true 
+    else 
+    return false
    
   end 
 end 
